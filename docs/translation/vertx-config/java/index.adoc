@@ -161,7 +161,6 @@ retriever.getConfig(json -> {
 [[_configuring_a_set_of_verticles]]
 === 配置一组Verticles
 
-The following example configures 2 verticles using the configurations contained in the `verticles.json` file:
 以下示例用 `verticles.json` 文件中的配置创建了2个verticle
 
 [source,java]
